@@ -9,7 +9,7 @@ This implemenation sorts integer arrays with bucket sort in C. Tested for up to 
 `sudo pip install when-changed`
 
 
-# Run and watch
+## Run and watch
 
 comile and run:
 `make default app=bucketsort_test`
