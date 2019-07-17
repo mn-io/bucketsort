@@ -1,14 +1,15 @@
-# Install
+# Bucketsort
+
+This implemenation sorts integer arrays with bucket sort in C. Tested for up to 2.000.000 elements and it comes with its own test suit implementation.
+
+## Setup
 
 `sudo apt-get install gcc python-pip`
 
 `sudo pip install when-changed`
 
 
-# Run/Watch
-
-exec first make task, here: make compile:
-`make`
+# Run and watch
 
 comile and run:
 `make default app=bucketsort_test`
